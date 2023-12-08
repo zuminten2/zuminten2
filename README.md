@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zuminten2
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning PHP
+
 
 
 <!---
